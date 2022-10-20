@@ -1,0 +1,4 @@
+hinga
+nota1=15
+nota2=10
+promedio=12.5
